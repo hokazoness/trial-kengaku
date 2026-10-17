@@ -1,10 +1,10 @@
 window.KENGAKU = {
  "title": "石割山 登山道整備の記録",
- "version": "853ad3852f",
+ "version": "17b1eb27f4",
  "set": "ワークショップ",
  "kind": "見学",
  "trial": false,
- "built": "2026-09-29 06:51",
+ "built": "2026-10-17 18:47",
  "sites": [
   {
    "no": 1,
@@ -246,6 +246,63 @@ window.KENGAKU = {
      "label": "経過観察",
      "kind": "watch",
      "note": "施工から 4年3か月"
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "code": "神社石割-0357",
+   "angle": "神社石割-0357-02",
+   "type": "土留め",
+   "title": "土嚢土留（神社石割-0357）",
+   "text": "",
+   "installed": "2023年12月3日",
+   "view": "下流から近景",
+   "photos": [
+    {
+     "file": "photos/s4_01_2023-11-20.jpg",
+     "w": 1400,
+     "h": 1050,
+     "date": "2023年11月20日",
+     "label": "施工前",
+     "kind": "before",
+     "note": ""
+    },
+    {
+     "file": "photos/s4_02_2023-12-04.jpg",
+     "w": 1400,
+     "h": 1050,
+     "date": "2023年12月4日",
+     "label": "施工後",
+     "kind": "after",
+     "note": ""
+    },
+    {
+     "file": "photos/s4_03_2024-05-26.jpg",
+     "w": 1050,
+     "h": 1400,
+     "date": "2024年5月26日",
+     "label": "追加の施工後",
+     "kind": "after",
+     "note": ""
+    },
+    {
+     "file": "photos/s4_04_2025-01-24.jpg",
+     "w": 1400,
+     "h": 1050,
+     "date": "2025年1月24日",
+     "label": "経過観察",
+     "kind": "watch",
+     "note": "施工から 1年1か月"
+    },
+    {
+     "file": "photos/s4_05_2026-06-05.jpg",
+     "w": 1400,
+     "h": 1050,
+     "date": "2026年6月5日",
+     "label": "経過観察",
+     "kind": "watch",
+     "note": "施工から 2年6か月"
     }
    ]
   }
